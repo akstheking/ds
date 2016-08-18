@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1430491365717_0" label="" name="">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/split-upload" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rename-single-episode" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Utilities" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1430491846372_1" label="Window Working Set" name="Aggregate for window 1430491846372"/>
+</workingSetManager>

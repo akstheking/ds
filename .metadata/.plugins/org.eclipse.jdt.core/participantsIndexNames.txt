@@ -1,0 +1,7 @@
+INDEX VERSION 1.127
+A:\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\52554393.index
+\raffle\src\main\java
+A:\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3770764672.index
+\config-admin\src\main\java
+A:\Projects\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\439486514.index
+\raffle\src\main\java
