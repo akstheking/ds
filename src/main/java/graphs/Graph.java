@@ -10,7 +10,7 @@ public class Graph {
 	int V;// number of vertices
 	Map<Integer, List<Edge>> adjList;// adjacency list
 
-	public static class Edge {
+	public static class Edge implements Comparable<Edge>{
 		int dest;
 		int weight;
 
@@ -38,6 +38,11 @@ public class Graph {
 		@Override
 		public String toString() {
 			return "Node [dest=" + dest + ", weight=" + weight + "]";
+		}
+
+		@Override
+		public int compareTo(Edge o) {
+			return weight-o.getWeight();
 		}
 		
 	}
